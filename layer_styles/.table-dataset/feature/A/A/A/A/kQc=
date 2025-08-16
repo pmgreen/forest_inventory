@@ -1,0 +1,525 @@
+’Ù(28ffb9a65dfb17cbc451cb8ddb1a6def6dcddf2bœ  ¦Canopy ¦CanopyÚZœ<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.40.9-Bratislava" maxScale="0" readOnly="0" minScale="1e+08" styleCategories="AllStyleCategories" autoRefreshMode="Disabled" hasScaleBasedVisibilityFlag="0" autoRefreshTime="0">
+ <flags>
+  <Identifiable>1</Identifiable>
+  <Removable>1</Removable>
+  <Searchable>1</Searchable>
+  <Private>0</Private>
+ </flags>
+ <temporal limitMode="0" durationField="" durationUnit="min" endField="" startExpression="" startField="" endExpression="" fixedDuration="0" enabled="0" mode="0" accumulate="0">
+  <fixedRange>
+   <start></start>
+   <end></end>
+  </fixedRange>
+ </temporal>
+ <elevation clamping="Terrain" extrusionEnabled="0" showMarkerSymbolInSurfacePlots="0" zoffset="0" extrusion="0" symbology="Line" binding="Centroid" respectLayerSymbol="1" zscale="1" type="IndividualFeatures">
+  <data-defined-properties>
+   <Option type="Map">
+    <Option name="name" value="" type="QString"/>
+    <Option name="properties"/>
+    <Option name="type" value="collection" type="QString"/>
+   </Option>
+  </data-defined-properties>
+  <profileLineSymbol>
+   <symbol frame_rate="10" force_rhr="0" name="" alpha="1" is_animated="0" clip_to_extent="1" type="line">
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+    <layer locked="0" enabled="1" pass="0" class="SimpleLine" id="{40f5bc2f-e349-4616-ab65-744dd397e0aa}">
+     <Option type="Map">
+      <Option name="align_dash_pattern" value="0" type="QString"/>
+      <Option name="capstyle" value="square" type="QString"/>
+      <Option name="customdash" value="5;2" type="QString"/>
+      <Option name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="customdash_unit" value="MM" type="QString"/>
+      <Option name="dash_pattern_offset" value="0" type="QString"/>
+      <Option name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="dash_pattern_offset_unit" value="MM" type="QString"/>
+      <Option name="draw_inside_polygon" value="0" type="QString"/>
+      <Option name="joinstyle" value="bevel" type="QString"/>
+      <Option name="line_color" value="232,113,141,255,rgb:0.90980392156862744,0.44313725490196076,0.55294117647058827,1" type="QString"/>
+      <Option name="line_style" value="solid" type="QString"/>
+      <Option name="line_width" value="0.6" type="QString"/>
+      <Option name="line_width_unit" value="MM" type="QString"/>
+      <Option name="offset" value="0" type="QString"/>
+      <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="offset_unit" value="MM" type="QString"/>
+      <Option name="ring_filter" value="0" type="QString"/>
+      <Option name="trim_distance_end" value="0" type="QString"/>
+      <Option name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="trim_distance_end_unit" value="MM" type="QString"/>
+      <Option name="trim_distance_start" value="0" type="QString"/>
+      <Option name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="trim_distance_start_unit" value="MM" type="QString"/>
+      <Option name="tweak_dash_pattern_on_corners" value="0" type="QString"/>
+      <Option name="use_custom_dash" value="0" type="QString"/>
+      <Option name="width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+     </Option>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </profileLineSymbol>
+  <profileFillSymbol>
+   <symbol frame_rate="10" force_rhr="0" name="" alpha="1" is_animated="0" clip_to_extent="1" type="fill">
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+    <layer locked="0" enabled="1" pass="0" class="SimpleFill" id="{c248e39d-0d7a-46fc-b888-e97375fce148}">
+     <Option type="Map">
+      <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="color" value="232,113,141,255,rgb:0.90980392156862744,0.44313725490196076,0.55294117647058827,1" type="QString"/>
+      <Option name="joinstyle" value="bevel" type="QString"/>
+      <Option name="offset" value="0,0" type="QString"/>
+      <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="offset_unit" value="MM" type="QString"/>
+      <Option name="outline_color" value="166,81,101,255,rgb:0.64985122453650723,0.31651789120317386,0.39496452277409017,1" type="QString"/>
+      <Option name="outline_style" value="solid" type="QString"/>
+      <Option name="outline_width" value="0.2" type="QString"/>
+      <Option name="outline_width_unit" value="MM" type="QString"/>
+      <Option name="style" value="solid" type="QString"/>
+     </Option>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </profileFillSymbol>
+  <profileMarkerSymbol>
+   <symbol frame_rate="10" force_rhr="0" name="" alpha="1" is_animated="0" clip_to_extent="1" type="marker">
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+    <layer locked="0" enabled="1" pass="0" class="SimpleMarker" id="{3c6728d6-e134-4f50-a176-a745612538a3}">
+     <Option type="Map">
+      <Option name="angle" value="0" type="QString"/>
+      <Option name="cap_style" value="square" type="QString"/>
+      <Option name="color" value="232,113,141,255,rgb:0.90980392156862744,0.44313725490196076,0.55294117647058827,1" type="QString"/>
+      <Option name="horizontal_anchor_point" value="1" type="QString"/>
+      <Option name="joinstyle" value="bevel" type="QString"/>
+      <Option name="name" value="diamond" type="QString"/>
+      <Option name="offset" value="0,0" type="QString"/>
+      <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="offset_unit" value="MM" type="QString"/>
+      <Option name="outline_color" value="166,81,101,255,rgb:0.64985122453650723,0.31651789120317386,0.39496452277409017,1" type="QString"/>
+      <Option name="outline_style" value="solid" type="QString"/>
+      <Option name="outline_width" value="0.2" type="QString"/>
+      <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="outline_width_unit" value="MM" type="QString"/>
+      <Option name="scale_method" value="diameter" type="QString"/>
+      <Option name="size" value="3" type="QString"/>
+      <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="size_unit" value="MM" type="QString"/>
+      <Option name="vertical_anchor_point" value="1" type="QString"/>
+     </Option>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </profileMarkerSymbol>
+ </elevation>
+ <customproperties>
+  <Option/>
+ </customproperties>
+ <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+  <activeChecks type="StringList">
+   <Option value="" type="QString"/>
+  </activeChecks>
+  <checkConfiguration/>
+ </geometryOptions>
+ <legend showLabelLegend="0" type="default-vector"/>
+ <fieldConfiguration>
+  <field name="fid" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="uuid" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="name" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="percent" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="plotid" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="planted" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="date" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="notes" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="transect" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="dbh" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="distance to tree" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="top percent scale" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="bottom percent scale" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="densiometer" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Seedling count" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="visual cover estimate" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="browse sign" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="Stem count" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="ash_health" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="observer 2 distance to tree" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="observer 2 top percent scale" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="observer 2 bottom percent scale" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+  <field name="scientific_name" configurationFlags="NoFlag">
+   <editWidget type="">
+    <config>
+     <Option/>
+    </config>
+   </editWidget>
+  </field>
+ </fieldConfiguration>
+ <aliases>
+  <alias name="" field="fid" index="0"/>
+  <alias name="" field="uuid" index="1"/>
+  <alias name="" field="name" index="2"/>
+  <alias name="" field="percent" index="3"/>
+  <alias name="" field="plotid" index="4"/>
+  <alias name="" field="planted" index="5"/>
+  <alias name="" field="date" index="6"/>
+  <alias name="" field="notes" index="7"/>
+  <alias name="" field="transect" index="8"/>
+  <alias name="" field="dbh" index="9"/>
+  <alias name="" field="distance to tree" index="10"/>
+  <alias name="" field="top percent scale" index="11"/>
+  <alias name="" field="bottom percent scale" index="12"/>
+  <alias name="" field="densiometer" index="13"/>
+  <alias name="" field="Seedling count" index="14"/>
+  <alias name="" field="visual cover estimate" index="15"/>
+  <alias name="" field="browse sign" index="16"/>
+  <alias name="" field="Stem count" index="17"/>
+  <alias name="" field="ash_health" index="18"/>
+  <alias name="" field="observer 2 distance to tree" index="19"/>
+  <alias name="" field="observer 2 top percent scale" index="20"/>
+  <alias name="" field="observer 2 bottom percent scale" index="21"/>
+  <alias name="" field="scientific_name" index="22"/>
+ </aliases>
+ <splitPolicies>
+  <policy policy="Duplicate" field="fid"/>
+  <policy policy="Duplicate" field="uuid"/>
+  <policy policy="Duplicate" field="name"/>
+  <policy policy="Duplicate" field="percent"/>
+  <policy policy="Duplicate" field="plotid"/>
+  <policy policy="Duplicate" field="planted"/>
+  <policy policy="Duplicate" field="date"/>
+  <policy policy="Duplicate" field="notes"/>
+  <policy policy="Duplicate" field="transect"/>
+  <policy policy="Duplicate" field="dbh"/>
+  <policy policy="Duplicate" field="distance to tree"/>
+  <policy policy="Duplicate" field="top percent scale"/>
+  <policy policy="Duplicate" field="bottom percent scale"/>
+  <policy policy="Duplicate" field="densiometer"/>
+  <policy policy="Duplicate" field="Seedling count"/>
+  <policy policy="Duplicate" field="visual cover estimate"/>
+  <policy policy="Duplicate" field="browse sign"/>
+  <policy policy="Duplicate" field="Stem count"/>
+  <policy policy="Duplicate" field="ash_health"/>
+  <policy policy="Duplicate" field="observer 2 distance to tree"/>
+  <policy policy="Duplicate" field="observer 2 top percent scale"/>
+  <policy policy="Duplicate" field="observer 2 bottom percent scale"/>
+  <policy policy="Duplicate" field="scientific_name"/>
+ </splitPolicies>
+ <duplicatePolicies>
+  <policy policy="Duplicate" field="fid"/>
+  <policy policy="Duplicate" field="uuid"/>
+  <policy policy="Duplicate" field="name"/>
+  <policy policy="Duplicate" field="percent"/>
+  <policy policy="Duplicate" field="plotid"/>
+  <policy policy="Duplicate" field="planted"/>
+  <policy policy="Duplicate" field="date"/>
+  <policy policy="Duplicate" field="notes"/>
+  <policy policy="Duplicate" field="transect"/>
+  <policy policy="Duplicate" field="dbh"/>
+  <policy policy="Duplicate" field="distance to tree"/>
+  <policy policy="Duplicate" field="top percent scale"/>
+  <policy policy="Duplicate" field="bottom percent scale"/>
+  <policy policy="Duplicate" field="densiometer"/>
+  <policy policy="Duplicate" field="Seedling count"/>
+  <policy policy="Duplicate" field="visual cover estimate"/>
+  <policy policy="Duplicate" field="browse sign"/>
+  <policy policy="Duplicate" field="Stem count"/>
+  <policy policy="Duplicate" field="ash_health"/>
+  <policy policy="Duplicate" field="observer 2 distance to tree"/>
+  <policy policy="Duplicate" field="observer 2 top percent scale"/>
+  <policy policy="Duplicate" field="observer 2 bottom percent scale"/>
+  <policy policy="Duplicate" field="scientific_name"/>
+ </duplicatePolicies>
+ <defaults>
+  <default expression="" field="fid" applyOnUpdate="0"/>
+  <default expression="" field="uuid" applyOnUpdate="0"/>
+  <default expression="" field="name" applyOnUpdate="0"/>
+  <default expression="" field="percent" applyOnUpdate="0"/>
+  <default expression="" field="plotid" applyOnUpdate="0"/>
+  <default expression="" field="planted" applyOnUpdate="0"/>
+  <default expression="" field="date" applyOnUpdate="0"/>
+  <default expression="" field="notes" applyOnUpdate="0"/>
+  <default expression="" field="transect" applyOnUpdate="0"/>
+  <default expression="" field="dbh" applyOnUpdate="0"/>
+  <default expression="" field="distance to tree" applyOnUpdate="0"/>
+  <default expression="" field="top percent scale" applyOnUpdate="0"/>
+  <default expression="" field="bottom percent scale" applyOnUpdate="0"/>
+  <default expression="" field="densiometer" applyOnUpdate="0"/>
+  <default expression="" field="Seedling count" applyOnUpdate="0"/>
+  <default expression="" field="visual cover estimate" applyOnUpdate="0"/>
+  <default expression="" field="browse sign" applyOnUpdate="0"/>
+  <default expression="" field="Stem count" applyOnUpdate="0"/>
+  <default expression="" field="ash_health" applyOnUpdate="0"/>
+  <default expression="" field="observer 2 distance to tree" applyOnUpdate="0"/>
+  <default expression="" field="observer 2 top percent scale" applyOnUpdate="0"/>
+  <default expression="" field="observer 2 bottom percent scale" applyOnUpdate="0"/>
+  <default expression="" field="scientific_name" applyOnUpdate="0"/>
+ </defaults>
+ <constraints>
+  <constraint constraints="3" field="fid" unique_strength="1" notnull_strength="1" exp_strength="0"/>
+  <constraint constraints="0" field="uuid" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="name" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="percent" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="plotid" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="planted" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="date" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="notes" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="transect" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="dbh" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="distance to tree" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="top percent scale" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="bottom percent scale" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="densiometer" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="Seedling count" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="visual cover estimate" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="browse sign" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="Stem count" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="ash_health" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="observer 2 distance to tree" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="observer 2 top percent scale" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="observer 2 bottom percent scale" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+  <constraint constraints="0" field="scientific_name" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+ </constraints>
+ <constraintExpressions>
+  <constraint field="fid" exp="" desc=""/>
+  <constraint field="uuid" exp="" desc=""/>
+  <constraint field="name" exp="" desc=""/>
+  <constraint field="percent" exp="" desc=""/>
+  <constraint field="plotid" exp="" desc=""/>
+  <constraint field="planted" exp="" desc=""/>
+  <constraint field="date" exp="" desc=""/>
+  <constraint field="notes" exp="" desc=""/>
+  <constraint field="transect" exp="" desc=""/>
+  <constraint field="dbh" exp="" desc=""/>
+  <constraint field="distance to tree" exp="" desc=""/>
+  <constraint field="top percent scale" exp="" desc=""/>
+  <constraint field="bottom percent scale" exp="" desc=""/>
+  <constraint field="densiometer" exp="" desc=""/>
+  <constraint field="Seedling count" exp="" desc=""/>
+  <constraint field="visual cover estimate" exp="" desc=""/>
+  <constraint field="browse sign" exp="" desc=""/>
+  <constraint field="Stem count" exp="" desc=""/>
+  <constraint field="ash_health" exp="" desc=""/>
+  <constraint field="observer 2 distance to tree" exp="" desc=""/>
+  <constraint field="observer 2 top percent scale" exp="" desc=""/>
+  <constraint field="observer 2 bottom percent scale" exp="" desc=""/>
+  <constraint field="scientific_name" exp="" desc=""/>
+ </constraintExpressions>
+ <expressionfields/>
+ <attributeactions/>
+ <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+  <columns>
+   <column name="fid" width="-1" type="field" hidden="0"/>
+   <column name="uuid" width="-1" type="field" hidden="0"/>
+   <column name="name" width="-1" type="field" hidden="0"/>
+   <column name="percent" width="-1" type="field" hidden="0"/>
+   <column name="plotid" width="-1" type="field" hidden="0"/>
+   <column name="planted" width="-1" type="field" hidden="0"/>
+   <column name="date" width="-1" type="field" hidden="0"/>
+   <column name="notes" width="-1" type="field" hidden="0"/>
+   <column name="transect" width="-1" type="field" hidden="0"/>
+   <column name="dbh" width="-1" type="field" hidden="0"/>
+   <column name="distance to tree" width="-1" type="field" hidden="0"/>
+   <column name="top percent scale" width="-1" type="field" hidden="0"/>
+   <column name="bottom percent scale" width="-1" type="field" hidden="0"/>
+   <column name="densiometer" width="-1" type="field" hidden="0"/>
+   <column name="Seedling count" width="-1" type="field" hidden="0"/>
+   <column name="visual cover estimate" width="-1" type="field" hidden="0"/>
+   <column name="browse sign" width="-1" type="field" hidden="0"/>
+   <column name="Stem count" width="-1" type="field" hidden="0"/>
+   <column name="ash_health" width="-1" type="field" hidden="0"/>
+   <column name="observer 2 distance to tree" width="-1" type="field" hidden="0"/>
+   <column name="observer 2 top percent scale" width="-1" type="field" hidden="0"/>
+   <column name="observer 2 bottom percent scale" width="-1" type="field" hidden="0"/>
+   <column name="scientific_name" width="-1" type="field" hidden="0"/>
+   <column width="-1" type="actions" hidden="1"/>
+  </columns>
+ </attributetableconfig>
+ <conditionalstyles>
+  <rowstyles/>
+  <fieldstyles/>
+ </conditionalstyles>
+ <storedexpressions/>
+ <editform tolerant="1"></editform>
+ <editforminit/>
+ <editforminitcodesource>0</editforminitcodesource>
+ <editforminitfilepath></editforminitfilepath>
+ <editforminitcode><![CDATA[]]></editforminitcode>
+ <featformsuppress>0</featformsuppress>
+ <editorlayout>generatedlayout</editorlayout>
+ <editable/>
+ <labelOnTop/>
+ <reuseLastValue/>
+ <dataDefinedFieldProperties/>
+ <widgets/>
+ <previewExpression>"name"</previewExpression>
+ <mapTip enabled="1"></mapTip>
+ <layerGeometryType>4</layerGeometryType>
+</qgis>
+Ú¶<?xml version="1.0" encoding="UTF-8"?>
+<StyledLayerDescriptor xmlns="http://www.opengis.net/sld" version="1.1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:se="http://www.opengis.net/se" xmlns:ogc="http://www.opengis.net/ogc" xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.1.0/StyledLayerDescriptor.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <NamedLayer/>
+</StyledLayerDescriptor>
+Ã¸Sat Aug 16 16:29:56 2025 À³2025-08-16T20:29:56

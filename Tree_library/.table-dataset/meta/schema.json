@@ -1,0 +1,1 @@
+[{"id": "384a11c5-e0e7-2c81-8221-482d47eb113c", "name": "fid", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "46cfbb7b-eb46-0ad1-051c-48080a52472e", "name": "common", "dataType": "text"}, {"id": "093d0ade-c4f4-baa2-be90-3977fc796b8f", "name": "latin", "dataType": "text"}, {"id": "93f6fe06-f344-6037-d08d-9a713f2b6fdc", "name": "note", "dataType": "text"}]
