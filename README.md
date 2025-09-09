@@ -4,6 +4,8 @@ A pilot project using free and open-source GIS tools to help facilitate botanica
 
 For details (screnshots, etc.) see [the wiki](https://github.com/pmgreen/forest_inventory/wiki)
 
+The companion botanical survey project is [here](https://github.com/pmgreen/riparian_east_botanical).  
+
 This is a [Kart](https://kartproject.org/) repository, with version control of geospatial data. This opens it up for collaboration. To check it out, follow this [quick start](https://docs.kartproject.org/en/latest/pages/quick_guide.html#quick-guide) guide to install Kart and then either use the [QGIS Kart plugin](https://plugins.qgis.org/plugins/kart/) or the command line to clone this repo. (For GIS nerds: it's essentially GPKG based.)  
 
 #### Helpful references:
