@@ -2,7 +2,7 @@
 
 A pilot project using free and open-source GIS tools to help facilitate botanical inventories in the "[Riparian East](https://www.fopos.org/riparian-restoration-project)" restoration area by [Friends of Princeton Open Space](https://www.fopos.org/) (FOPOS) in Princeton, NJ. 
 
-For details (screnshots, etc.) see [the wiki](https://github.com/pmgreen/forest_inventory/wiki)
+For details (screenshots, etc.) see [the wiki](https://github.com/pmgreen/forest_inventory/wiki)
 
 The companion botanical survey project is [here](https://github.com/pmgreen/riparian_east_botanical).  
 
