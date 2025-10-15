@@ -5,7 +5,7 @@ A pilot project using free and open-source GIS tools to help facilitate botanica
 **For GIS nerds:** This is a [Kart](https://kartproject.org/) repository, enabling version control of geospatial data, which opens the project up for collaboration. To check it out, follow this [quick start](https://docs.kartproject.org/en/latest/pages/quick_guide.html#quick-guide) guide to install Kart and then either use the [QGIS Kart plugin](https://plugins.qgis.org/plugins/kart/) or the command line to clone this repo. It's essentially GPKG based.
 
 <img width="15%" alt="baseline_QField" src="https://github.com/user-attachments/assets/72c60e4d-03e2-4c01-8b76-51ff13e9bd5d" />
- <a href="https://pmgreen.github.io/fopos_forest//"><img width="35%" alt="image" src="https://github.com/user-attachments/assets/f0f4fe8f-5f1d-480d-9010-8db75e1c94f7" /></a>
+ <a href="https://pmgreen.github.io/fopos_forest/"><img width="35%" alt="image" src="https://github.com/user-attachments/assets/f0f4fe8f-5f1d-480d-9010-8db75e1c94f7" /></a>
 
 #### Hopefully helpful references:
 - [Clone existing repositories](https://docs.kartproject.org/en/latest/pages/commands/kart_clone.html#clone-existing-repositories)
